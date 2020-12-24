@@ -8,4 +8,5 @@
 6. WAL write ahead logs
 7. Synchronous vs asynchronous
 8. Physical replication vs Logical replication
+9. Percona takes PostgreSQL and modifies to provide additional
 
