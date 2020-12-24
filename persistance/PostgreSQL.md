@@ -7,4 +7,5 @@
 5. Cold Standby
 6. WAL write ahead logs
 7. Synchronous vs asynchronous
-8
+8. Physical replication vs Logical replication
+
